@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="LOGGIN">INGRESO</string>
+    <string name="User">Usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="ENTER">ENTRAR</string>
+    <string name="REGISTER">REGISTRARSE</string>
+    <string name="app_name">ParkingFast</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
